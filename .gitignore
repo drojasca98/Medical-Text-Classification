@@ -1,2 +1,5 @@
 # Ignore jupyter notebook check points
 /python/.ipynb_checkpoints/
+
+# Ignore sent2vec model
+/model/
