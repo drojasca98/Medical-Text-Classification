@@ -4,3 +4,6 @@
 
 # Ignore sent2vec model
 /model/
+
+# Ignore Plots folder
+/plots/
