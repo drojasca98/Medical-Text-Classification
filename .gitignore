@@ -7,3 +7,6 @@
 
 # Ignore Plots folder
 /plots/
+
+# Ignore BioBert Model
+/python/BioBert_MedAbs_Classifier
